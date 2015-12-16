@@ -1,0 +1,28 @@
+name: Adventures in Food
+favicon: null
+layout_spectrum: 0.8730439238715917
+typography_spectrum: 0.9873726742807776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.377271325327456
+  lightness: 0.9162312704138458
+  saturation: 0.36223255889490247
+  rhythmicContrast: 0.25491123413667083
+purpose: []
